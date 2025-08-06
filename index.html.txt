@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadow Dash - Romany Raouf Edition</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #0f0f0f; color: #fff; text-align: center; padding: 50px; }
+        .container { max-width: 600px; margin: auto; background: #1e1e1e; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.5); }
+        h1 { color: #00ff99; }
+        .download-btn { display: inline-block; padding: 15px 25px; margin-top: 20px; background: #00ff99; color: #000; font-weight: bold; border-radius: 10px; text-decoration: none; font-size: 18px; }
+        .info { margin-top: 30px; font-size: 14px; color: #ccc; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Shadow Dash</h1>
+        <h2>Romany Raouf Edition</h2>
+        <p>لعبة Shadow Dash الآن بإصدار خاص احترافي مع تحديات يومية وجوائز مميزة. استعد لتجربة إدمانية لا تُقاوم!</p>
+        <a class="download-btn" href="https://drive.google.com/uc?export=download&id=1tWOBCCYyJj8vOzlQG6hfxpsuViz0SFus">تحميل اللعبة (APK)</a>
+        <div class="info">
+            <p>© 2025 Romany Raouf</p>
+            <p>للتواصل: romeioromany222@gmail.com</p>
+        </div>
+    </div>
+</body>
+</html>
